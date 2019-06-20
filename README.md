@@ -2,5 +2,7 @@
 
 ## Usage
 
+```
 > rustup override set nightly
 > cargo run 
+```
